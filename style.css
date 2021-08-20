@@ -30,7 +30,7 @@
         color: purple;
        }
     .styledImage{
-        border-width: 12px;
-        border-style: groove;
-        border-color: rebeccapurple;
+        border-style: solid;
+        border-width: thick;
+        border-color: navy;
     }

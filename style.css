@@ -29,6 +29,6 @@
     .styledFont{
         color: purple;
     }
-    .styledImage{
+    #styledImage{
         border: 20px solid navy;
     }

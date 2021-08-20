@@ -28,9 +28,7 @@
     }
     .styledFont{
         color: purple;
-       }
+    }
     .styledImage{
-        border-style: solid;
-        border-width: thick;
-        border-color: navy;
+        border: thick solid navy;
     }

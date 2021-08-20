@@ -29,3 +29,8 @@
     .styledFont{
         color: purple;
        }
+    .styledImage{
+        border-width: 12px;
+        border-style: groove;
+        border-color: rebeccapurple;
+    }
